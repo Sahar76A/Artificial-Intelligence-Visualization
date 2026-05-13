@@ -1,0 +1,56 @@
+4 2
+A B C D E F G H I
+A B C F
+B D E
+C D E
+F H
+D I
+E I G
+
+------------------------------good for DFS
+
+4 2
+A B C D E F G H I
+A B C F
+B D E
+C E H
+D I
+E I G
+
+
+
+-----------------------------good for IDS
+
+4 2
+A B C D E F G H I J K L
+A B C D
+B E F
+C H I
+D J
+F G
+J K L
+
+
+-----------------------------good for BFS
+
+4 2
+A B C D E F G I J K L
+A B C D
+B E F I
+C I
+D J
+I G
+J K L
+
+
+
+----------------------------
+
+4 2
+A B C D E F G H I
+A B C F
+B D E
+C E G
+D I
+E I 
+F H
