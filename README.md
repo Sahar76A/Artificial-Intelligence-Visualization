@@ -115,16 +115,3 @@ This project was developed as an educational tool to simplify understanding of A
 - Weighted graph customization
 - Real-time user graph input
 
----
-
-## Acknowledgments
-
-Special thanks to:
-- Manim Community
-- Contributors and mentors who supported the project development
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
