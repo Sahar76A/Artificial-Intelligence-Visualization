@@ -1,5 +1,4 @@
 # Artificial-Intelligence-Visualization
-# Artificial Intelligence Visualization
 
 A Python-based visualization system for demonstrating how classical Artificial Intelligence search algorithms operate step-by-step on graph structures.
 
